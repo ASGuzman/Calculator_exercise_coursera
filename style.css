@@ -1,0 +1,19 @@
+body {
+    background-color:black;
+    font-family: arial;
+    color:white 
+}
+
+h1{
+    color:grey;
+    font-family: verdana;
+}
+
+.maindiv{
+    background-color: white;
+    color: black;
+    width: 300px; /* define el ancho del elemento */
+    padding: 20px; /* define el espacio interior entre el contenido de un elemento (como texto o imagen) y el borde del mismo */
+    border-radius: 25px;
+    text-align: center;
+}
